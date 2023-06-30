@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "The Mathematical Analysis of Logic - Boole, G. (1847). The mathematical analysis of logic. Philosophical Library."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "ogica matem´atica tem uma formula¸c˜ao formal mais precisa no ano de 1847 com a publica¸c˜ao do livro The Mathematical Analysis of Logic de George Boole (1815-1864"
     return mensagem
 
 
